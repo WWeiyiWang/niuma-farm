@@ -6,7 +6,7 @@
 
 ## 下载
 
-前往 [最新版本](https://github.com/WWeiyiWang/niuma-farm/releases/latest)，在 Assets 中下载 `NiumaFarm-1.3.1-x64-setup.exe` 并安装。
+前往 [最新版本](https://github.com/WWeiyiWang/niuma-farm/releases/latest)，在 Assets 中下载 `NiumaFarm-1.4.0-x64-setup.exe` 并安装。
 
 ## 可以做什么
 
@@ -22,9 +22,9 @@
 
 适用于 Windows x64，需要 Microsoft Edge WebView2 运行环境。
 
-当前版本使用手动更新：完全退出牛马农场后，下载新版安装程序并安装。请保持原安装位置和应用身份，更新前建议备份自己的本地数据。
+从 1.4.0 起，启动时自动检查新版，也可以在「设置 → 软件更新」检查，点击「下载并更新」安装。安装前会保存记录并创建本机备份，保留用时、收藏、周目标和状态记录。
 
-**当前没有软件内自动下载或一键更新功能。** 本页和 Releases 将持续提供新版安装包及更新说明。
+**1.3.1 用户需先退出软件，手动安装一次 1.4.0。** 此后的新版可在软件内更新。更新包会校验签名；网络、签名或备份失败时不会启动安装。更新时状态记录会暂停，重启后可继续。
 
 ## 数据
 
